@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+div {
+    height: 430px;
+    width: 430px;
+
+    border-width: 20px;
+    border-style: solid;
+    border-color: rgb(57, 0, 110);
+
+    background-image: url(img/pngwing.com\ \(12\).png);
+    text-align: center;
+    box-shadow: inset 10px 6px 23px 10px purple ;
+    background-size: cover;
+
+    padding: 10px;
+
+    outline-width: 56px;
+    outline-style: double;
+    outline-color: rgb(22, 192, 149);
+
+    margin: auto;
+    margin-top: 100 px;
+    
+}
+
+p {
+    
+    padding-top: 130px;
+    color: rgb(23, 136, 211);
+    font-size: 45px;
+    font-weight: bold;
+    font-style: italic;
+  }
